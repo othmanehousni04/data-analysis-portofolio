@@ -1,10 +1,11 @@
-# Project 1: Interactive Sales Dashboard
+# My Data Analysis Portfolio
 
-## Objective: To analyze 100 sales records to identify key business insights. This project involved data cleaning, analysis, and building an interactive dashboard.
+Welcome to my portfolio! Here you will find a collection of my projects in data analysis, business intelligence, and data science.
 
-## Tools Used: Microsoft Power BI 
+---
 
-## What I Did (My Process): 1. **Loaded & Cleaned Data:** Imported the CSV into Power BI. Had to debug the data model by removing a duplicate, unneeded file. 2. **Created a "Smart" Column:** Used **DAX** (the IF function) to create a new "Performance Rating" column (A-Grade, B-Grade, C-Grade) based on profit. 3. **Built the Dashboard:** Created a fully interactive dashboard with 5 visuals (KPIs, Bar, Pie, Line) and 2 Slicers (Region, Performance Rating). 4. **Fixed Interactions:** Debugged the visual interactions to ensure all charts and slicers filter the entire dashboard correctly.
+## Projects:
 
-## Final Dashboard (Screenshot): <img width="1355" height="945" alt="Capture2" src="https://github.com/user-attachments/assets/ead127b2-c025-42a5-96fa-7c65d361dfd9" />
-<img width="1920" height="1042" alt="Capture" src="https://github.com/user-attachments/assets/41188b2f-ac5c-4005-a51a-368b022f2be0" />
+* ### [Project 1: Interactive Sales Dashboard](https://github.com/othmanehousni04/data-analysis-portofolio/Project-1-Sales-Dashboard/)
+    * **Tools:** Power BI, DAX, Excel
+    * **Description:** An interactive dashboard to analyze sales data, identify key profit drivers, and track performance with custom DAX-based ratings.
