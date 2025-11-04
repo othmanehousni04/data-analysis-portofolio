@@ -8,4 +8,5 @@
 
 ## Final Dashboard (Screenshot): 
 <img width="1920" height="1042" alt="Capture" src="https://github.com/user-attachments/assets/172d28df-5eae-49a4-bfed-03b8daea47df" />
-<img width="1355" height="945" alt="Capture2" src="https://github.com/user-attachments/assets/40c6694e-9a02-4694-add7-7a0073d5e3bf" />
+<img width="1355" height="945" alt="Capture2" src="https://github.com/user-attachments/assets/40c6694e-9a02-4694-add7-7a0073d5e3bf" /><img width="1355" height="944" alt="Capture3" src="https://github.com/user-attachments/assets/c8e1f79c-ef0c-4d3c-82e5-4990e9851e4b" />
+
