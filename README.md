@@ -12,3 +12,7 @@ Welcome to my portfolio! Here you will find a collection of my projects in data 
 * ### [Project 2: Statistical Analysis of Moroccan Tourism Habits](https://github.com/othmanehousni04/data-analysis-portofolio/tree/main/Project-2-SPSS-Tourism-Analysis)
     * **Tools:** SPSS, Excel, Survey Design, Statistical Hypothesis Testing
     * **Description:** Drew actionable business insights from the statistical results, identifying that the modern Moroccan tourist is young, connected, and highly influenced by price, reviews, and security..
+* ### [Project 3: Netflix Dashboard](https://github.com/othmanehousni04/data-analysis-portofolio/tree/main/Project-3-Netflix-Dashboard)
+    * **Tools:** Power BI, DAX, Excel
+    * **Description:** An interactive dashboard to analyze Netflix data, identify popular genres and best rated movies of all times.
+  
