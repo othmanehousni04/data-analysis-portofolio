@@ -38,14 +38,17 @@ This is a classic **quantitative finance / portfolio theory** exercise.
 ---
 
 ## ⚙️ Parameters
-
-```python
 n_stocks = 5
+
 n_days = 252
+
 start_price = 100
+
 weights = np.array([0.4, 0.2, 0.1, 0.2, 0.1])
+
 n_portfolio = 100
---- 
+
+---
 Portfolio weights are randomly sampled and normalized
 📊 Calculations Performed
 📈 Asset-Level
