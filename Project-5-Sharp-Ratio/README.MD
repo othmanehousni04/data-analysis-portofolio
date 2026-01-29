@@ -46,6 +46,8 @@ start_price = 100
 weights = np.array([0.4, 0.2, 0.1, 0.2, 0.1])
 n_portfolio = 100
 5 simulated assets
+```python
+
 --- 
 252 trading days (~1 year)
 
