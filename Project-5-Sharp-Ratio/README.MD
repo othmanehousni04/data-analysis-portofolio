@@ -37,8 +37,7 @@ This is a classic **quantitative finance / portfolio theory** exercise.
 
 ---
 
-## ⚙️ Parameters
----
+⚙️ Parameters
 ```
 n_stocks = 5
 n_days = 252
