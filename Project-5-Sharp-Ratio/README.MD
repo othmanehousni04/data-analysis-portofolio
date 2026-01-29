@@ -46,7 +46,7 @@ start_price = 100
 weights = np.array([0.4, 0.2, 0.1, 0.2, 0.1])
 n_portfolio = 100
 5 simulated assets
-
+--- 
 252 trading days (~1 year)
 
 Daily returns simulated uniformly between -2% and +2%
@@ -64,7 +64,7 @@ Annualized mean returns
 Annualized covariance matrix
 
 Correlation matrix
-
+---
 ## 📦 Portfolio-Level
 For each random portfolio:
 
@@ -75,7 +75,7 @@ Portfolio variance
 Portfolio volatility
 
 Sharpe ratio
-
+---
 ## 📉 Visualization
 The script generates a Monte Carlo scatter plot where:
 
@@ -92,7 +92,7 @@ Efficient vs inefficient portfolios
 Risk–return tradeoff
 
 Impact of diversification
-
+---
 ## 🖥️ Console Output
 The program prints:
 
@@ -101,7 +101,7 @@ First 10 simulated portfolio returns
 First 10 simulated portfolio volatilities
 
 Useful for quick numerical inspection and debugging.
-
+---
 ## 📦 Requirements
 Python 3.x
 
