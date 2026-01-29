@@ -110,20 +110,33 @@ Built as a learning project to strengthen NumPy, financial modeling, and data vi
 
 
 OUTPUT:
+
 ----- PORTFOLIO STATS -----
+
 Annual Return: -5.59%
+
 Annual Volatility: 9.45%
 
+
 ----- RISK CONTRIBUTION -----
+
 Stock 1: 62.48%
+
 Stock 2: 13.73%
+
 Stock 3: 2.99%
+
 Stock 4: 18.44%
+
 Stock 5: 2.36%
+
 Total: 100.00%
 
+
 ----- STOCK PERFORMANCE -----
+
 Best stock: 2 → 109.18
+
 Worst stock: 4 → 83.05
 
 <img width="607" height="475" alt="image" src="https://github.com/user-attachments/assets/b3e2b3a5-56f4-4a9a-bde4-77f53da1b4e6" />
