@@ -39,7 +39,7 @@ This is a classic **quantitative finance / portfolio theory** exercise.
 
 ## ⚙️ Parameters
 ---
-python
+```
 n_stocks = 5
 n_days = 252
 start_price = 100
@@ -48,7 +48,7 @@ n_portfolio = 100
 5 simulated assets 
 252 trading days (~1 year)
 Daily returns simulated uniformly between -2% and +2%
-100 random portfolios generated
+100 random portfolios generated```
 
 --- 
 Portfolio weights are randomly sampled and normalized
