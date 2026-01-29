@@ -109,3 +109,25 @@ Export results to CSV
 Built as a learning project to strengthen NumPy, financial modeling, and data visualization skills.
 
 
+OUTPUT:
+----- PORTFOLIO STATS -----
+Annual Return: -5.59%
+Annual Volatility: 9.45%
+
+----- RISK CONTRIBUTION -----
+Stock 1: 62.48%
+Stock 2: 13.73%
+Stock 3: 2.99%
+Stock 4: 18.44%
+Stock 5: 2.36%
+Total: 100.00%
+
+----- STOCK PERFORMANCE -----
+Best stock: 2 → 109.18
+Worst stock: 4 → 83.05
+
+<img width="607" height="475" alt="image" src="https://github.com/user-attachments/assets/b3e2b3a5-56f4-4a9a-bde4-77f53da1b4e6" />
+<img width="602" height="473" alt="image" src="https://github.com/user-attachments/assets/0f9505ed-e0f1-45f3-ad4a-8374680080ea" />
+<img width="1002" height="646" alt="image" src="https://github.com/user-attachments/assets/c0fd1683-7beb-4943-a48d-9e7044f2ee8b" />
+
+
